@@ -3,3 +3,7 @@
 - Tito
 - Toto
 - Pancho
+- Paz
+- Martha
+- Batman
+- Nombre generico n° 2
