@@ -1,4 +1,4 @@
-### Conflictos en Git - 1 Oct
+### Conflictos en Git
 
 -Tito
 -Toto
